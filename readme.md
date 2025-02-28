@@ -1,7 +1,8 @@
 # PHP Task: Shopping Cart Checkout System
 
 ## Overview
-Create a simple checkout system with PayPal payment gateway integration using vanilla PHP (no frameworks). The system should process a predefined cart of products through PayPal checkout.
+Created a simple checkout system with Stripe payment gateway integration using vanilla PHP (no frameworks). The system should process a predefined cart of products through Stripe checkout.
+Could not create a Paypal account with BD phone number required.
 
 ### Technical Requirements
 - PHP 8.1 or higher
